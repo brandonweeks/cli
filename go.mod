@@ -30,7 +30,7 @@ require (
 	golang.org/x/sys v0.28.0
 	golang.org/x/term v0.27.0
 	google.golang.org/grpc v1.56.3 // indirect
-	google.golang.org/protobuf v1.30.0
+	google.golang.org/protobuf v1.33.0
 	gopkg.in/square/go-jose.v2 v2.6.0
 	howett.net/plist v1.0.0 // indirect
 	software.sslmate.com/src/go-pkcs12 v0.0.0-20201103104416-57fc603b7f52
